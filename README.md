@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @VicFROST2099
-- 👀 I’m interested in Music and Computer Science
-- 🌱 I’m currently learning a few cs languages on Codewars
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi,
 - 📫 How to reach me, on my email.
 
 <!---
